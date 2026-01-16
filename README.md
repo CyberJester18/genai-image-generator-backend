@@ -1,3 +1,7 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/<YOUR_USERNAME>/<REPO_NAME>/blob/main/genai_backend_app.ipynb)
+
+
 # GenAI Image Generator (Backend-Oriented)
 
 This project is a backend-powered Generative AI application that generates
