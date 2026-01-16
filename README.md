@@ -2,6 +2,15 @@
 (https://colab.research.google.com/github/<CyberJester18>/<
 genai-image-generator-backend>/blob/main/genai_backend_app.ipynb)
 
+## Live Demo
+
+This project is deployed as a demo on Hugging Face Spaces using CPU resources.
+Due to hardware constraints, image generation may take longer than GPU-backed
+deployments.
+
+Live demo:
+https://huggingface.co/spaces/CyberJester18/genai-image-generator
+
 
 # GenAI Image Generator (Backend-Oriented)
 
