@@ -1,5 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/<YOUR_USERNAME>/<REPO_NAME>/blob/main/genai_backend_app.ipynb)
+(https://colab.research.google.com/github/<CyberJester18>/<
+genai-image-generator-backend>/blob/main/genai_backend_app.ipynb)
 
 
 # GenAI Image Generator (Backend-Oriented)
